@@ -3,6 +3,7 @@ Compatibility for languages and tools on Apple's new M1 hardware
 
 ## Language Support
 * JavaScript/Node.js/Python/Ruby
+* PHP
 * [Java, Scala, Groovy](https://www.azul.com/downloads/zulu-community/?os=macos&architecture=arm-64-bit&package=jdk)
 * [.NET Core](https://github.com/dotnet/runtime/issues/43313)
 * C, C++, Obj-C and Swift
