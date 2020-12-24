@@ -12,7 +12,7 @@ Compatibility for languages and tools on Apple's new M1 hardware
 
 ## IDE
 * Xcode
-* VSCode - support coming
+* VSCode - native insiders edition
 * Android Studio/Jet Brains
 
 ## Virtualization and Emulation
